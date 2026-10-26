@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:7C3AED,100:C4B5FD&height=210&section=header&text=SMARTSTUDY%20AI&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Flashcards%20and%20Quiz%20Generator&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 # 🚀 SmartStudy AI Flashcard Quiz Generator
 
 An AI-powered Flashcard Quiz Generator designed to help students create interactive study materials and improve their learning experience.
